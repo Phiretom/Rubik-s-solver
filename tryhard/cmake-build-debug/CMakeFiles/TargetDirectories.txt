@@ -1,3 +1,0 @@
-C:/Users/Fedor/CLionProjects/tryhard/cmake-build-debug/CMakeFiles/tryhard.dir
-C:/Users/Fedor/CLionProjects/tryhard/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Fedor/CLionProjects/tryhard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
