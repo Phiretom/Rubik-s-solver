@@ -8,7 +8,7 @@ int main(int argc, char **argv)
         return -1;
     }
 
-    GLFWwindow *window=glfwCreateWindow(800,800,"Rubik's Cube",nullptr,nullptr);
+    GLFWwindow *window=glfwCreateWindow(800,800,"Rubik's solver",nullptr,nullptr);
     if (!window)
     {
         std::cerr << "Failed to create GLFW window\n";

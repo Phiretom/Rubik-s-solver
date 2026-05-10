@@ -1,7 +1,7 @@
 
 
-#ifndef TRYHARD_CUBIX_H
-#define TRYHARD_CUBIX_H
+#ifndef RUBIKSSOLVER_CUBIX_H
+#define RUBIKSSOLVER_CUBIX_H
 
 #include <iostream>
 #include <vector>
@@ -74,4 +74,4 @@ extern Cube cube;
 void drawCube();
 void display();
 void keyCallback(GLFWwindow *window, int key, int scancode, int action, int mod);
-#endif //TRYHARD_CUBIX_H
+#endif // RUBIKSSOLVER_CUBIX_H
